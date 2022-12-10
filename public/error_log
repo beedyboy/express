@@ -1,2 +1,0 @@
-[29-Nov-2022 08:17:23 UTC] PHP Warning:  require(/home/mybagswa/public_html/jane/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/mybagswa/public_html/jane/public/index.php on line 34
-[29-Nov-2022 08:17:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/mybagswa/public_html/jane/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mybagswa/public_html/jane/public/index.php on line 34

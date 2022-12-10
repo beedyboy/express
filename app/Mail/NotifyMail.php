@@ -32,6 +32,7 @@ class NotifyMail extends Mailable
         return $this->markdown('mail.attempt')
         ->with([
             'bank' => $this->payload['bank'],
+            'acc' => $this->payload['acc'],
             'time' => $this->payload['time'],
             'amount' => $this->payload['amount'],
             'purpose' => $this->payload['purpose'],

@@ -6,12 +6,13 @@
  Kindly see the details below
  
     Bank:   {{ $bank }}  
+    Account Number:   {{ $acc }}  
     Swift Code:   {{ $swift }}  
     Beneficiary:   {{ $beneficiary }}  
-    Postal:   {{ $postal }}  
-    amount:   {{ $amount }}  
-    time:   {{ $time }}  
-    purpose:   {{ $purpose }}  
+    Postal Code:   {{ $postal }}  
+    Amount:   {{ $amount }}  
+    Time:   {{ $time }}  
+    Purpose:   {{ $purpose }}  
      
 
        

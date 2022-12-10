@@ -44,7 +44,7 @@
           <!-- /.col -->
          
           <div class="col-md-3 col-sm-6 col-12">
-            <a href="{{ url('/public/account/transfer') }}">
+            <a href="{{ url('/account/transfer') }}">
             <button class="btn btn-primary">Transfer Fund</button>
           </a>
             
