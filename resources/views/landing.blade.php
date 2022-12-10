@@ -81,7 +81,7 @@
                   <li>
                     <a href="#contact-section" class="nav-link">Contact</a>
                   </li>
-                  <li><a href="{{ url('/auth') }}" target="_blank" class="nav-link">Login</a></li>
+                  <p><a href="{{ url('/auth') }}" target="_blank" class="nav-link">Login</a></p>
                   <!-- <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-facebook"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-twitter"></span></a></li>
                 <li class="social"><a href="#contact-section" class="nav-link"><span class="icon-linkedin"></span></a></li> -->
