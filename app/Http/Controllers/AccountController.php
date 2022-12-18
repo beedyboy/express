@@ -138,7 +138,6 @@ class AccountController extends Controller
 
   public function sendMail(Request $request)
   {
-    $hi = "we dey here"; 
     if (Session::has('user')) {
       $response = array();
       $amount = (float)$request->input('amount');
