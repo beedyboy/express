@@ -16,12 +16,12 @@
         "logo": "kimberly.jpeg",
         "occupation": "Lawyer"
     },
-    "janeandy@gmail.com": {
+    "nicole@gmail.com": {
         "id": 2,
         "short_name": "Nicole Kimberly",
         "name": "Nicole Kimberly Thompson",
-        "email": "janeandy@gmail.com",
-        "password": "andy@124$!",
+        "email": "nicole@gmail.com",
+        "password": "nicole@124$!",
         "wallet": "3,500,000.00",
         "currency": "fa fa-dollar-sign",
         "tax": "",
