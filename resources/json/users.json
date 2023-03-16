@@ -16,14 +16,14 @@
         "logo": "kimberly.jpeg",
         "occupation": "Lawyer"
     },
-    "caroline@gmail.com": {
+    "andyjane@gmail.com": {
         "id": 2,
         "_short_name": "Nicole Kimberly",
         "_name": "Nicole Kimberly Thompson",
-        "short_name": "Caroline Hills",
-        "name": "Caroline Herrera Hills",
-        "email": "caroline@gmail.com",
-        "password": "caroline@124$!",
+        "short_name": "Jane Andrew",
+        "name": "Jane Andrew",
+        "email": "andyjane@gmail.com",
+        "password": "janed@124$!",
         "wallet": "1,550,000.00",
         "currency": "fa fa-dollar-sign",
         "tax": "",
