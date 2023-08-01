@@ -1,39 +1,22 @@
 {
-    "beedy@gmail.com": {
-        "id": 1,
-        "name": "Akinniyi",
-        "email": "beedy@gmail.com",
-        "password": "123456",
-        "wallet": "747,823.21",
-        "currency": "fa fa-dollar-sign",
-        "tax": "1098737",
-        "imt": "919172",
-        "atcc": "0737192",
-        "owner": "off",
-        "education": "",
-        "location": "Greenwich, London",
-        "nok": "",
-        "logo": "kimberly.jpeg",
-        "occupation": "Lawyer"
-    },
-    "andyjane@gmail.com": {
+    "harrykelcasillas@gmail.com": {
         "id": 2,
-        "_short_name": "Nicole Kimberly",
-        "_name": "Nicole Kimberly Thompson",
+        "_short_name": "Harry Casillas",
+        "_name": "Harry Kelvin Casillas",
         "short_name": "Jane Andrew",
         "name": "Jane Andrew",
-        "email": "andyjane@gmail.com",
-        "password": "janed@124$!",
-        "wallet": "1,550,000.00",
+        "email": "harrykelcasillas@gmail.com",
+        "password": "harry@10",
+        "wallet": "11,467,910.00",
         "currency": "fa fa-dollar-sign",
         "tax": "",
         "imt": "",
         "atcc": "",
         "owner": "on",
         "education": "",
-        "location": "Ma, USA",
-        "nok": "Beth Wagner",
+        "location": "Tulsa, USA",
+        "nok": "Sharon Casillas",
         "logo": "kimberly.jpeg",
-        "occupation": "Therapist"
+        "occupation": "Gym Instructor"
     }
 }
