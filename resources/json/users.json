@@ -1,20 +1,20 @@
 {
-    "rogertommy14@gmail.com": {
+    "joycestropes@gmail.com": {
         "id": 2,
-        "short_name": "Bryan Wilson",
-        "name": "Tony Bryan Wilson",
-        "email": "rogertommy14@gmail.com",
+        "short_name": "Joyce Stropes",
+        "name": "Joyce Stropes",
+        "email": "joycestropes@gmail.com",
         "password": "tommy@14",
-        "wallet": "6,450,575.00",
-        "currency": "fa fa-dollar-sign",
+        "wallet": "253,000,000.00",
+        "currency": "fa fa-euro-sign",
         "tax": "",
         "imt": "",
         "atcc": "",
         "owner": "on",
         "education": "",
-        "location": "Washington, USA",
-        "nok": "Jake Wilson",
+        "location": "Seatle Washington, USA",
+        "nok": "Johnson William",
         "logo": "roger.jpeg",
-        "occupation": "US Army"
+        "occupation": "Entrepreneur"
     }
 }
