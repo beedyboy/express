@@ -2,26 +2,20 @@
      
     {
         "description": "OPENING DEPOSIT, Self",
-        "ref": "Iabb0d4ec-OCT-2022",
-        "date": "14-10-2022 09:43",
-        "amount": "1,000.00 Euro"
+        "ref": "Iabb0d4ec141223",
+        "date": "14-12-2023 09:43",
+        "amount": "33,000,000.00 Euro"
     },
     {
         "description": "WIRE TRANSFER, Kinross Gold Company",
-        "ref": "Iabb0d4ec-OCT-2022",
-        "date": "18-10-2022 08:15",
-        "amount": "1,000,000.00 Euro"
+        "ref": "S439820181223",
+        "date": "18-12-2023 08:15",
+        "amount": "120,000,000.00 Euro"
     },
     {
-        "description": "DEBIT TRANSACTION",
-        "ref": "X53757187-NOV-2022",
-        "date": "21-11-2022 08:05",
-        "amount": "1, 200, 000.00 Nok" 
-    },
-    {
-        "description": "DISPENSE ERROR REVERSAL",
-        "ref": "RSVL-668444151-NOV-2022",
-        "date": "22-11-2022 11:01",
-        "amount": "1, 200, 000.00 Nok" 
+        "description": "WIRE TRANSFER",
+        "ref": "11261725300221223",
+        "date": "22-12-2023 11:01",
+        "amount": "100,000,000.00 Euro" 
     }
 ]
